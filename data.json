@@ -6,37 +6,49 @@
           "name": "History Sutra",
           "status": "in_progress",
           "pct": 40,
-          "target_month": "November"
+          "target_month": "November",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "Modern History - Spectrum",
           "status": "not_started",
           "pct": 0,
-          "target_month": "November"
+          "target_month": "November",
+          "chapter_total": 39,
+          "chapters_completed": 0
         },
         {
           "name": "Ancient & Medieval - NCERT + notes",
           "status": "not_started",
           "pct": 0,
-          "target_month": "November"
+          "target_month": "November",
+          "chapter_total": 23,
+          "chapters_completed": 0
         },
         {
           "name": "Intro to Indian Art (Cl. 11)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "December"
+          "target_month": "December",
+          "chapter_total": 7,
+          "chapters_completed": 0
         },
         {
           "name": "Themes in Indian History I & II",
           "status": "not_started",
           "pct": 0,
-          "target_month": "December"
+          "target_month": "December",
+          "chapter_total": 8,
+          "chapters_completed": 0
         },
         {
           "name": "Indian Culture - Nitin Singhania",
           "status": "not_started",
           "pct": 0,
-          "target_month": "December"
+          "target_month": "December",
+          "chapter_total": 31,
+          "chapters_completed": 0
         }
       ]
     },
@@ -46,31 +58,41 @@
           "name": "Geography Sutra",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "NCERT Geography 11/12",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": 37,
+          "chapters_completed": 0
         },
         {
           "name": "Raj Tanil Maam (video series)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "GC Leong (selective)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "Atlas practice",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -80,31 +102,41 @@
           "name": "Polity Sutra",
           "status": "not_started",
           "pct": 0,
-          "target_month": "October"
+          "target_month": "October",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "Indian Constitution at Work - NCERT",
           "status": "not_started",
           "pct": 0,
-          "target_month": "October"
+          "target_month": "October",
+          "chapter_total": 10,
+          "chapters_completed": 0
         },
         {
           "name": "Laxmikanth",
           "status": "not_started",
           "pct": 0,
-          "target_month": "October"
+          "target_month": "October",
+          "chapter_total": 92,
+          "chapters_completed": 0
         },
         {
           "name": "Political Theory - NCERT",
           "status": "not_started",
           "pct": 0,
-          "target_month": "October"
+          "target_month": "October",
+          "chapter_total": 8,
+          "chapters_completed": 0
         },
         {
           "name": "PIB / PRS",
           "status": "ongoing",
           "pct": null,
-          "target_month": null
+          "target_month": null,
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -114,25 +146,33 @@
           "name": "NCERT Economy",
           "status": "not_started",
           "pct": 0,
-          "target_month": "September"
+          "target_month": "September",
+          "chapter_total": 8,
+          "chapters_completed": 0
         },
         {
           "name": "Mrunal videos",
           "status": "not_started",
           "pct": 0,
-          "target_month": "September"
+          "target_month": "September",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "Ramesh Singh / Sanjeev Verma",
           "status": "not_started",
           "pct": 0,
-          "target_month": "September"
+          "target_month": "September",
+          "chapter_total": 30,
+          "chapters_completed": 0
         },
         {
           "name": "Current Affairs (Economy)",
           "status": "ongoing",
           "pct": null,
-          "target_month": null
+          "target_month": null,
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -142,19 +182,25 @@
           "name": "Shyam Saran - IR",
           "status": "not_started",
           "pct": 0,
-          "target_month": "January"
+          "target_month": "January",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "2nd ARC 4th Report (Ethics)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "January"
+          "target_month": "January",
+          "chapter_total": null,
+          "chapters_completed": 0
         },
         {
           "name": "2nd ARC 12th Report (Ethics)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "January"
+          "target_month": "January",
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -164,7 +210,9 @@
           "name": "Vision IAS Monthly Magazine",
           "status": "ongoing",
           "pct": null,
-          "target_month": null
+          "target_month": null,
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -174,7 +222,9 @@
           "name": "Toppers' Copies practice",
           "status": "ongoing",
           "pct": null,
-          "target_month": null
+          "target_month": null,
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -184,7 +234,9 @@
           "name": "Environment - placeholder (fill in via /setup)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "August"
+          "target_month": "August",
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     },
@@ -194,7 +246,9 @@
           "name": "Optional subject - placeholder (fill in via /setup)",
           "status": "not_started",
           "pct": 0,
-          "target_month": "January"
+          "target_month": "January",
+          "chapter_total": null,
+          "chapters_completed": 0
         }
       ]
     }
@@ -238,76 +292,91 @@
   "timetable": {
     "Monday": [
       {
+        "id": "b_c79fef1fc93a",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_7377ecb1bf6e",
         "start": "08:00",
         "end": "09:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_383d0681db4a",
         "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_0e4d1cff08bd",
         "start": "11:00",
         "end": "12:00",
         "activity": "Lec-EE370"
       },
       {
+        "id": "b_e84d86bb8f14",
         "start": "12:00",
         "end": "13:00",
         "activity": "Lec-EE200"
       },
       {
+        "id": "b_726ae1e8ee37",
         "start": "13:00",
         "end": "14:00",
         "activity": "Lunch"
       },
       {
+        "id": "b_ca240e15b8c7",
         "start": "14:00",
         "end": "15:15",
         "activity": "Lec-CS350"
       },
       {
+        "id": "b_f73360d7d857",
         "start": "15:15",
         "end": "15:30",
         "activity": "Transition"
       },
       {
+        "id": "b_0fdba44ea1bf",
         "start": "15:30",
         "end": "17:00",
         "activity": "Lec-CS778"
       },
       {
+        "id": "b_e61f8471f2b5",
         "start": "17:00",
         "end": "18:00",
         "activity": "Lec-PHI441"
       },
       {
+        "id": "b_07b837c53c06",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_cea4b76cd878",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_a6b418bfcc15",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_09891fcdccc8",
         "start": "22:00",
         "end": "23:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_43fc4f9a12ae",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -315,71 +384,85 @@
     ],
     "Tuesday": [
       {
+        "id": "b_3d6a83f15ab2",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_baf796a5b5cf",
         "start": "08:00",
         "end": "09:00",
         "activity": "Lec-EE320"
       },
       {
+        "id": "b_97a45f8c7a87",
         "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_9849db8a2b03",
         "start": "11:00",
         "end": "12:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_f6009de356c0",
         "start": "12:00",
         "end": "13:00",
         "activity": "Lunch"
       },
       {
+        "id": "b_7c2589d1bcc2",
         "start": "13:00",
         "end": "14:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_c71966aef4dd",
         "start": "14:00",
         "end": "15:15",
         "activity": "Lec-CS778"
       },
       {
+        "id": "b_34e08151d3ab",
         "start": "15:15",
         "end": "17:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_e49787bcdb41",
         "start": "17:00",
         "end": "18:00",
         "activity": "Tut-EE370"
       },
       {
+        "id": "b_2abb66c60f32",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_a7066a811bb6",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_03b7b5656f5a",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_9b8c5017d52a",
         "start": "22:00",
         "end": "23:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_dd723087fac1",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -387,71 +470,85 @@
     ],
     "Wednesday": [
       {
+        "id": "b_be4a7e57dd60",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_42507504149d",
         "start": "08:00",
         "end": "09:00",
         "activity": "Lec-EE320"
       },
       {
+        "id": "b_fde6b88311da",
         "start": "09:00",
         "end": "11:00",
         "activity": "Course Rev + Assign"
       },
       {
+        "id": "b_d5954e2eac9e",
         "start": "11:00",
         "end": "12:00",
         "activity": "Lec-EE370"
       },
       {
+        "id": "b_271830306c60",
         "start": "12:00",
         "end": "13:00",
         "activity": "Lec-EE200"
       },
       {
+        "id": "b_f4025a686e74",
         "start": "13:00",
         "end": "14:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_589fa57e69c0",
         "start": "14:00",
         "end": "15:15",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_854b7bae48cf",
         "start": "15:15",
         "end": "17:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_3ef3bb6f1a44",
         "start": "17:00",
         "end": "18:00",
         "activity": "Lec-PHI441"
       },
       {
+        "id": "b_36a38a8a18ba",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_9b1f768172f6",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_66454cff408f",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_1e431015bcc0",
         "start": "22:00",
         "end": "23:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_23ca49e2be81",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -459,71 +556,85 @@
     ],
     "Thursday": [
       {
+        "id": "b_294d1aa62434",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_269d0f07afc9",
         "start": "08:00",
         "end": "09:00",
         "activity": "Lec-EE320"
       },
       {
+        "id": "b_94d466634086",
         "start": "09:00",
         "end": "11:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_f04d55685a12",
         "start": "11:00",
         "end": "12:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_e79a7ae40845",
         "start": "12:00",
         "end": "13:00",
         "activity": "Tut-EE200"
       },
       {
+        "id": "b_e7724741cf1c",
         "start": "13:00",
         "end": "14:00",
         "activity": "Lunch"
       },
       {
+        "id": "b_b30de25c36ad",
         "start": "14:00",
         "end": "15:15",
         "activity": "Lec-CS350"
       },
       {
+        "id": "b_607891d004dd",
         "start": "15:15",
         "end": "17:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_562a64dfdeb3",
         "start": "17:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_213632d231ec",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_72b6d9b5e55e",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_a6864469f328",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_d7aaf9434531",
         "start": "22:00",
         "end": "23:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_b933b4105a23",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -531,76 +642,91 @@
     ],
     "Friday": [
       {
+        "id": "b_8e67464e7351",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_eefa74b1b792",
         "start": "08:00",
         "end": "09:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_cec98483f39c",
         "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_e04a7188f7ce",
         "start": "11:00",
         "end": "12:00",
         "activity": "Lec-EE370"
       },
       {
+        "id": "b_a789f47648e6",
         "start": "12:00",
         "end": "13:00",
         "activity": "Lec-EE200"
       },
       {
+        "id": "b_6b4781c19012",
         "start": "13:00",
         "end": "14:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_56236ab939d6",
         "start": "14:00",
         "end": "15:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_75d095eb2565",
         "start": "15:00",
         "end": "16:00",
         "activity": "Tut-EE320"
       },
       {
+        "id": "b_c450f95c7589",
         "start": "16:00",
         "end": "17:00",
         "activity": "Course Rev"
       },
       {
+        "id": "b_a5a44e2ecd69",
         "start": "17:00",
         "end": "18:00",
         "activity": "Lec-PHI441"
       },
       {
+        "id": "b_8fc0c19253f4",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_e21041ebf371",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_bfa24affd371",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_19dcfd41587f",
         "start": "22:00",
         "end": "23:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_b859f55736a0",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -608,71 +734,85 @@
     ],
     "Saturday": [
       {
+        "id": "b_8550457006d1",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_1a84320effb2",
         "start": "08:00",
         "end": "09:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_8f3846094e18",
         "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_aca986b8f517",
         "start": "11:00",
         "end": "12:00",
         "activity": "Courses"
       },
       {
+        "id": "b_2ca31d568f1a",
         "start": "12:00",
         "end": "13:00",
         "activity": "Courses"
       },
       {
+        "id": "b_ba1bdf0d2613",
         "start": "13:00",
         "end": "14:00",
         "activity": "1hr sleep + UPSC Prep"
       },
       {
+        "id": "b_b5eaeae7696e",
         "start": "14:00",
         "end": "15:15",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_defd4cfd45d4",
         "start": "15:15",
         "end": "17:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_a90931d1edb2",
         "start": "17:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_bc99e5421cfd",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_91e4de3f99df",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_2baa3860af60",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_7ddbb009aa2d",
         "start": "22:00",
         "end": "23:00",
         "activity": "Courses"
       },
       {
+        "id": "b_8d3f4fdbebf3",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
@@ -680,71 +820,85 @@
     ],
     "Sunday": [
       {
+        "id": "b_994ac3a2ccd8",
         "start": "06:00",
         "end": "08:00",
         "activity": "Path + Breakfast"
       },
       {
+        "id": "b_604282c25dad",
         "start": "08:00",
         "end": "09:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_9a961f009141",
         "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_9ee4d1397605",
         "start": "11:00",
         "end": "12:00",
         "activity": "Courses"
       },
       {
+        "id": "b_590732b2aad4",
         "start": "12:00",
         "end": "13:00",
         "activity": "Courses"
       },
       {
+        "id": "b_cb2f1f14d504",
         "start": "13:00",
         "end": "14:00",
         "activity": "1hr sleep + UPSC Prep"
       },
       {
+        "id": "b_b1964c20ccd0",
         "start": "14:00",
         "end": "15:15",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_bf3f6d5d3ce7",
         "start": "15:15",
         "end": "17:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_8cc84f9d31a6",
         "start": "17:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
       {
+        "id": "b_4c6605de7b45",
         "start": "18:00",
         "end": "19:00",
         "activity": "Relax + Exercise"
       },
       {
+        "id": "b_5b75cff5a950",
         "start": "19:00",
         "end": "20:00",
         "activity": "Path + G.S."
       },
       {
+        "id": "b_bd25d955ec01",
         "start": "20:00",
         "end": "22:00",
         "activity": "Current Affairs"
       },
       {
+        "id": "b_5e3042c7a38d",
         "start": "22:00",
         "end": "23:00",
         "activity": "Courses"
       },
       {
+        "id": "b_74cea32e37af",
         "start": "23:00",
         "end": "23:59",
         "activity": "Next Day Tasks"
