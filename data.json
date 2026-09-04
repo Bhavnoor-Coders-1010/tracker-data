@@ -4,8 +4,8 @@
       "books": [
         {
           "name": "History Sutra",
-          "status": "in_progress",
-          "pct": 40,
+          "status": "not_started",
+          "pct": 0,
           "target_month": "November",
           "chapter_total": null,
           "chapters_completed": 0
@@ -132,8 +132,8 @@
         },
         {
           "name": "PIB / PRS",
-          "status": "ongoing",
-          "pct": null,
+          "status": "not_started",
+          "pct": 0,
           "target_month": null,
           "chapter_total": null,
           "chapters_completed": 0
@@ -168,8 +168,8 @@
         },
         {
           "name": "Current Affairs (Economy)",
-          "status": "ongoing",
-          "pct": null,
+          "status": "not_started",
+          "pct": 0,
           "target_month": null,
           "chapter_total": null,
           "chapters_completed": 0
@@ -208,8 +208,8 @@
       "books": [
         {
           "name": "Vision IAS Monthly Magazine",
-          "status": "ongoing",
-          "pct": null,
+          "status": "not_started",
+          "pct": 0,
           "target_month": null,
           "chapter_total": null,
           "chapters_completed": 0
@@ -220,8 +220,8 @@
       "books": [
         {
           "name": "Toppers' Copies practice",
-          "status": "ongoing",
-          "pct": null,
+          "status": "not_started",
+          "pct": 0,
           "target_month": null,
           "chapter_total": null,
           "chapters_completed": 0
