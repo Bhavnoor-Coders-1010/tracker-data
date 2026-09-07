@@ -915,6 +915,35 @@
       "date": "2026-11-16"
     }
   ],
-  "daily_logs": {},
+  "daily_logs": {
+    "2026-09-07": {
+      "planned_blocks": [
+        "b_c79fef1fc93a",
+        "b_7377ecb1bf6e",
+        "b_383d0681db4a",
+        "b_0e4d1cff08bd",
+        "b_e84d86bb8f14",
+        "b_726ae1e8ee37",
+        "b_ca240e15b8c7",
+        "b_f73360d7d857",
+        "b_0fdba44ea1bf",
+        "b_e61f8471f2b5",
+        "b_07b837c53c06",
+        "b_cea4b76cd878",
+        "b_a6b418bfcc15",
+        "b_09891fcdccc8",
+        "b_43fc4f9a12ae"
+      ],
+      "completed_blocks": [
+        "b_c79fef1fc93a",
+        "b_ca240e15b8c7",
+        "b_f73360d7d857",
+        "b_0fdba44ea1bf",
+        "b_e61f8471f2b5",
+        "b_07b837c53c06"
+      ],
+      "notes": ""
+    }
+  },
   "review_history": []
 }
