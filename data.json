@@ -549,9 +549,9 @@
       },
       {
         "id": "b_23ca49e2be81",
-        "start": "23:00",
+        "start": "23:35",
         "end": "23:59",
-        "activity": "Next Day Tasks"
+        "activity": "Current Affairs"
       }
     ],
     "Thursday": [
@@ -623,8 +623,8 @@
       },
       {
         "id": "b_a6864469f328",
-        "start": "20:20",
-        "end": "20:30",
+        "start": "20:00",
+        "end": "22:00",
         "activity": "Current Affairs"
       },
       {
