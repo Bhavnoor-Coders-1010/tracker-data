@@ -298,14 +298,8 @@
         "activity": "Path + Breakfast"
       },
       {
-        "id": "b_7377ecb1bf6e",
-        "start": "08:00",
-        "end": "09:00",
-        "activity": "UPSC Prep"
-      },
-      {
         "id": "b_383d0681db4a",
-        "start": "09:00",
+        "start": "08:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
@@ -360,24 +354,24 @@
       {
         "id": "b_cea4b76cd878",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
         "id": "b_a6b418bfcc15",
-        "start": "20:00",
-        "end": "22:00",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
         "id": "b_09891fcdccc8",
-        "start": "22:00",
-        "end": "23:00",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "UPSC Prep"
       },
       {
         "id": "b_43fc4f9a12ae",
-        "start": "23:00",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -398,26 +392,20 @@
       {
         "id": "b_97a45f8c7a87",
         "start": "09:00",
-        "end": "11:00",
-        "activity": "UPSC Prep"
+        "end": "10:00",
+        "activity": "Course Rev"
       },
       {
         "id": "b_9849db8a2b03",
-        "start": "11:00",
-        "end": "12:00",
+        "start": "10:00",
+        "end": "13:00",
         "activity": "UPSC Prep"
       },
       {
         "id": "b_f6009de356c0",
-        "start": "12:00",
-        "end": "13:00",
-        "activity": "Lunch"
-      },
-      {
-        "id": "b_7c2589d1bcc2",
         "start": "13:00",
         "end": "14:00",
-        "activity": "Course Rev"
+        "activity": "Lunch"
       },
       {
         "id": "b_c71966aef4dd",
@@ -444,26 +432,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_a7066a811bb6",
+        "id": "b_228e8beaeb92",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_03b7b5656f5a",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_c7fda57ada0c",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_9b8c5017d52a",
-        "start": "22:00",
-        "end": "23:00",
+        "id": "b_4e5f6e6fa28d",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "UPSC Prep"
       },
       {
-        "id": "b_dd723087fac1",
-        "start": "23:00",
+        "id": "b_466d5b451d6d",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -503,17 +491,11 @@
         "id": "b_f4025a686e74",
         "start": "13:00",
         "end": "14:00",
-        "activity": "UPSC Prep"
+        "activity": "Lunch"
       },
       {
         "id": "b_589fa57e69c0",
         "start": "14:00",
-        "end": "15:15",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_854b7bae48cf",
-        "start": "15:15",
         "end": "17:00",
         "activity": "UPSC Prep"
       },
@@ -530,26 +512,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_9b1f768172f6",
+        "id": "b_2f15ea9a0bda",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_66454cff408f",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_4fafb01bec81",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_1e431015bcc0",
-        "start": "22:00",
-        "end": "23:00",
+        "id": "b_368e4bccfcd6",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "UPSC Prep"
       },
       {
-        "id": "b_23ca49e2be81",
-        "start": "23:00",
+        "id": "b_12c307bad517",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -571,7 +553,7 @@
         "id": "b_94d466634086",
         "start": "09:00",
         "end": "11:00",
-        "activity": "Course Rev"
+        "activity": "UPSC Prep"
       },
       {
         "id": "b_f04d55685a12",
@@ -600,12 +582,6 @@
       {
         "id": "b_607891d004dd",
         "start": "15:15",
-        "end": "17:00",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_562a64dfdeb3",
-        "start": "17:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
@@ -616,26 +592,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_72b6d9b5e55e",
+        "id": "b_13328d233dcb",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_a6864469f328",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_c71fbe7c5c7e",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_d7aaf9434531",
-        "start": "22:00",
-        "end": "23:00",
+        "id": "b_aba70d055f33",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "UPSC Prep"
       },
       {
-        "id": "b_b933b4105a23",
-        "start": "23:00",
+        "id": "b_52c9f5d23ac5",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -650,12 +626,6 @@
       {
         "id": "b_eefa74b1b792",
         "start": "08:00",
-        "end": "09:00",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_cec98483f39c",
-        "start": "09:00",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
@@ -675,7 +645,7 @@
         "id": "b_6b4781c19012",
         "start": "13:00",
         "end": "14:00",
-        "activity": "Course Rev"
+        "activity": "Lunch"
       },
       {
         "id": "b_56236ab939d6",
@@ -693,7 +663,7 @@
         "id": "b_c450f95c7589",
         "start": "16:00",
         "end": "17:00",
-        "activity": "Course Rev"
+        "activity": "Free Time"
       },
       {
         "id": "b_a5a44e2ecd69",
@@ -708,26 +678,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_e21041ebf371",
+        "id": "b_1849b7826369",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_bfa24affd371",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_078cb5c9e892",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_19dcfd41587f",
-        "start": "22:00",
-        "end": "23:00",
+        "id": "b_b97a80cd3900",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "UPSC Prep"
       },
       {
-        "id": "b_b859f55736a0",
-        "start": "23:00",
+        "id": "b_5a0106a7a8e6",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -736,54 +706,30 @@
       {
         "id": "b_8550457006d1",
         "start": "06:00",
-        "end": "08:00",
+        "end": "08:30",
         "activity": "Path + Breakfast"
       },
       {
-        "id": "b_1a84320effb2",
-        "start": "08:00",
-        "end": "09:00",
-        "activity": "UPSC Prep"
-      },
-      {
         "id": "b_8f3846094e18",
-        "start": "09:00",
+        "start": "08:30",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
         "id": "b_aca986b8f517",
         "start": "11:00",
-        "end": "12:00",
-        "activity": "Courses"
-      },
-      {
-        "id": "b_2ca31d568f1a",
-        "start": "12:00",
         "end": "13:00",
         "activity": "Courses"
       },
       {
         "id": "b_ba1bdf0d2613",
         "start": "13:00",
-        "end": "14:00",
-        "activity": "1hr sleep + UPSC Prep"
-      },
-      {
-        "id": "b_b5eaeae7696e",
-        "start": "14:00",
-        "end": "15:15",
-        "activity": "UPSC Prep"
+        "end": "15:00",
+        "activity": "Lunch"
       },
       {
         "id": "b_defd4cfd45d4",
-        "start": "15:15",
-        "end": "17:00",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_a90931d1edb2",
-        "start": "17:00",
+        "start": "15:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
@@ -794,26 +740,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_91e4de3f99df",
+        "id": "b_94ffe7710a7f",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_2baa3860af60",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_d101f2cc9099",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_7ddbb009aa2d",
-        "start": "22:00",
-        "end": "23:00",
-        "activity": "Courses"
+        "id": "b_430f4606ff18",
+        "start": "22:30",
+        "end": "23:45",
+        "activity": "Course Rev"
       },
       {
-        "id": "b_8d3f4fdbebf3",
-        "start": "23:00",
+        "id": "b_ac0df8271506",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
@@ -822,30 +768,18 @@
       {
         "id": "b_994ac3a2ccd8",
         "start": "06:00",
-        "end": "08:00",
+        "end": "08:30",
         "activity": "Path + Breakfast"
       },
       {
         "id": "b_604282c25dad",
-        "start": "08:00",
-        "end": "09:00",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_9a961f009141",
-        "start": "09:00",
+        "start": "08:30",
         "end": "11:00",
         "activity": "UPSC Prep"
       },
       {
-        "id": "b_9ee4d1397605",
-        "start": "11:00",
-        "end": "12:00",
-        "activity": "Courses"
-      },
-      {
         "id": "b_590732b2aad4",
-        "start": "12:00",
+        "start": "11:00",
         "end": "13:00",
         "activity": "Courses"
       },
@@ -853,23 +787,17 @@
         "id": "b_cb2f1f14d504",
         "start": "13:00",
         "end": "14:00",
-        "activity": "1hr sleep + UPSC Prep"
+        "activity": "Lunch"
       },
       {
         "id": "b_b1964c20ccd0",
         "start": "14:00",
-        "end": "15:15",
-        "activity": "UPSC Prep"
+        "end": "15:00",
+        "activity": "1hr sleep"
       },
       {
         "id": "b_bf3f6d5d3ce7",
-        "start": "15:15",
-        "end": "17:00",
-        "activity": "UPSC Prep"
-      },
-      {
-        "id": "b_8cc84f9d31a6",
-        "start": "17:00",
+        "start": "15:00",
         "end": "18:00",
         "activity": "UPSC Prep"
       },
@@ -880,26 +808,26 @@
         "activity": "Relax + Exercise"
       },
       {
-        "id": "b_5b75cff5a950",
+        "id": "b_dfdb0524e7cf",
         "start": "19:00",
-        "end": "20:00",
+        "end": "20:30",
         "activity": "Path + G.S."
       },
       {
-        "id": "b_bd25d955ec01",
-        "start": "20:00",
-        "end": "22:00",
+        "id": "b_dee8ce37188a",
+        "start": "20:30",
+        "end": "22:30",
         "activity": "Current Affairs"
       },
       {
-        "id": "b_5e3042c7a38d",
-        "start": "22:00",
-        "end": "23:00",
+        "id": "b_d89c3c70d30d",
+        "start": "22:30",
+        "end": "23:45",
         "activity": "Courses"
       },
       {
-        "id": "b_74cea32e37af",
-        "start": "23:00",
+        "id": "b_56261181cb8e",
+        "start": "23:45",
         "end": "23:59",
         "activity": "Next Day Tasks"
       }
