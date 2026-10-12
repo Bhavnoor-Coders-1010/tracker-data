@@ -306,14 +306,14 @@
       {
         "id": "b_0e4d1cff08bd",
         "start": "11:00",
-        "end": "11:40",
+        "end": "12:00",
         "activity": "Lec-EE370"
       },
       {
         "id": "b_e84d86bb8f14",
-        "start": "11:40",
+        "start": "12:00",
         "end": "13:00",
-        "activity": "Current Affairs"
+        "activity": "Lec-EE200"
       },
       {
         "id": "b_726ae1e8ee37",
