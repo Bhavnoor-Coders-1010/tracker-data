@@ -65,10 +65,10 @@
         {
           "name": "NCERT Geography 11/12",
           "status": "in_progress",
-          "pct": 46,
+          "pct": 49,
           "target_month": "August",
           "chapter_total": 37,
-          "chapters_completed": 17
+          "chapters_completed": 18
         },
         {
           "name": "Raj Tanil Maam (video series)",
@@ -870,6 +870,25 @@
         "b_e61f8471f2b5",
         "b_07b837c53c06"
       ],
+      "notes": ""
+    },
+    "2026-10-29": {
+      "planned_blocks": [
+        "b_294d1aa62434",
+        "b_269d0f07afc9",
+        "b_94d466634086",
+        "b_f04d55685a12",
+        "b_e79a7ae40845",
+        "b_e7724741cf1c",
+        "b_b30de25c36ad",
+        "b_607891d004dd",
+        "b_213632d231ec",
+        "b_13328d233dcb",
+        "b_c71fbe7c5c7e",
+        "b_aba70d055f33",
+        "b_52c9f5d23ac5"
+      ],
+      "completed_blocks": [],
       "notes": ""
     }
   },
